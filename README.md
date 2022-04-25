@@ -9,18 +9,18 @@ git clone https://github.com/Mindula-Dilthushan/First-Chat-UI-Application.git
 ```
 ###
 
-![GitHub issues](https://img.shields.io/github/issues/Mindula-Dilthushan/First-Chat-UI-Application?&labelColor=black&color=eb3b5a&label=Issues&logo=issues&logoColor=black&style=for-the-badge)
-![GitHub Contributions](https://img.shields.io/github/contributors/Mindula-Dilthushan/First-Chat-UI-Application?&labelColor=black&color=8854d0&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Mindula-Dilthushan/Simple-Chat-Application?&labelColor=black&color=eb3b5a&label=Issues&logo=issues&logoColor=black&style=for-the-badge)
+![GitHub Contributions](https://img.shields.io/github/contributors/Mindula-Dilthushan/Simple-Chat-Application?&labelColor=black&color=8854d0&style=for-the-badge)
 
 ### License 📝
-[![GitHub license](https://img.shields.io/github/license/Mindula-Dilthushan/First-Chat-UI-Application?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/Mindula-Dilthushan/First-Chat-UI-Application/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Mindula-Dilthushan/Simple-Chat-Application?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/Mindula-Dilthushan/Simple-Chat-Application/blob/master/LICENSE)
 
 <div align="center">
 
-![repo size](https://img.shields.io/github/repo-size/Mindula-Dilthushan/First-Chat-UI-Application?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
-![GitHub forks](https://img.shields.io/github/forks/Mindula-Dilthushan/First-Chat-UI-Application?&labelColor=black&color=0fb9b1&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Mindula-Dilthushan/First-Chat-UI-Application?&labelColor=black&color=f7b731&style=for-the-badge)
-![GitHub LastCommit](https://img.shields.io/github/last-commit/Mindula-Dilthushan/First-Chat-UI-Application?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+![repo size](https://img.shields.io/github/repo-size/Mindula-Dilthushan/Simple-Chat-Application?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/Mindula-Dilthushan/Simple-Chat-Application?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Mindula-Dilthushan/Simple-Chat-Application?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/Mindula-Dilthushan/Simple-Chat-Application?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
 </div>
 
